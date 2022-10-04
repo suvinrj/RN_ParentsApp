@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "716755841297",
+    "project_id": "parentgeofencing-5d5e8",
+    "storage_bucket": "parentgeofencing-5d5e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716755841297:android:8b4158d56e713ea1a49cb0",
+        "android_client_info": {
+          "package_name": "com.boundarytestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716755841297-3mo1bl7bspi6vtihsn7e30vo7ou5nab2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPwJEfnJmS-LpLQL59Zq2wy6q4zGxSOEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716755841297-3mo1bl7bspi6vtihsn7e30vo7ou5nab2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "716755841297-m8frhbshvio9qmvof4t8ptt396ccs0p6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.BoundaryTestApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716755841297:android:b9442b6f2731ad4ba49cb0",
+        "android_client_info": {
+          "package_name": "com.geofencingApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716755841297-bcoijkovp29sl98c691fm1muicllhqol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geofencingApp",
+            "certificate_hash": "fcfdd952b3e1e6c20fa87b22318dcbb8f87b2f9c"
+          }
+        },
+        {
+          "client_id": "716755841297-3mo1bl7bspi6vtihsn7e30vo7ou5nab2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPwJEfnJmS-LpLQL59Zq2wy6q4zGxSOEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716755841297-3mo1bl7bspi6vtihsn7e30vo7ou5nab2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "716755841297-m8frhbshvio9qmvof4t8ptt396ccs0p6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.BoundaryTestApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
